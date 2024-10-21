@@ -14,8 +14,8 @@
 
 
 <!-- Connect with me section -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://fb.com/devendra chowdary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devendra chowdary" height="30" width="40" /></a>
   <a href="https://instagram.com/devendra_chowdary11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devendra_chowdary11" height="30" width="40" /></a>
   <h2>Coding Profiles</h2>
