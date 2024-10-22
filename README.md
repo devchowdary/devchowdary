@@ -1,13 +1,30 @@
-<h1 align="center">Hi 👋, I'm <span class="animated-name">Devendra Prasad Madala</span></h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dev+Chowdary!;" />
+</h1>
 <h3 align="center">A passionate FullStack Developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devchowdary&label=Profile%20views&color=0e75b6&style=flat" alt="devchowdary" /> </p>
 
-- 🔭 I’m currently working on [INDIAN HERITAGE AND MONUMENTS](https://indiachronicles.netlify.app/)
+
+
+
+
+
+- <h3 align="center">A passionate full-Stack developer from India</h3>
+
+<div align="center">
+- 🔭 I’m currently working on INDIAN HERITAGE AND MONUMENTS
+  
 - 🌱 I’m currently learning **Spring Boot, Solidity, C++**
+
 - 💬 Ask me about **ReactJS, JavaScript, Java**
+
 - 📫 How to reach me **2200030138cseh@gmail.com**
+
+⚡️ Fun fact What is stacks and ends? 🤔
+
+ </div>
 
 <!-- Animating the name -->
 
